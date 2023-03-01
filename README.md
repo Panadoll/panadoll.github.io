@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Panadoll/panadoll.github.io/edit/main/pages/这是一个测试.md) and ![Image](src)
+ and ![Image](src)
 ```
-
+[Link](https://github.com/Panadoll/panadoll.github.io/edit/main/pages/这是一个测试.md)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
